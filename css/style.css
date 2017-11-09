@@ -1,0 +1,17 @@
+#fp_table {
+  margin-top: 48px;
+	border-collapse: collapse;
+}
+#fp_table td, #fp_table th {
+	border: 1px solid;
+	text-align: left;
+	padding: 2px 8px;
+}
+
+#fp_table th {
+	font-weight: bold;
+}
+
+#FPURLInput {
+  width: 420px;
+}
